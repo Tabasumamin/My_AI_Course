@@ -1,0 +1,35 @@
+# Salary Dataset - Linear Regression
+
+## About
+This project predicts salary based on years of
+experience using Linear Regression. Part of the
+Linear Regression practice assignment from the
+Full Stack AI Course at Nexskill.
+
+## Dataset
+- Source: Kaggle
+- Size: 30 samples, 2 columns
+- Features: Years of Experience
+- Target: Salary
+
+## Steps Performed
+- Data loading and exploration
+- Checking missing values
+- Data visualization (scatter plot, heatmap)
+- Train/Test split (80/20)
+- Linear Regression model training
+- Model evaluation (MAE, RMSE)
+- Actual vs Predicted comparison
+
+## Key Insight
+Strong positive correlation between years of
+experience and salary - as experience increases,
+salary increases linearly.
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Seaborn
+- Matplotlib
+- Scikit-learn
