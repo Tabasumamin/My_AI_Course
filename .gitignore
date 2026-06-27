@@ -1,1 +1,22 @@
-Final_Assessment/Dataset_3_DL_SpaceX Missions/Dataset_3_DL_SpaceX_Missions.ipynb
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
