@@ -1,9 +1,9 @@
-python
-machine-learning 
-data-science
-deep-learning
-AI
-jupyter-notebook
 numpy
 pandas
-ml
+matplotlib
+seaborn
+beautifulsoup4
+selenium
+scikit-learn
+jupyter
+notebook
